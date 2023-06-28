@@ -1,0 +1,60 @@
+.form-ava{
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    height: 85vh;
+    color: white;
+}
+fieldset{
+    border: 3px solid #ffffff;
+    border-radius: 8px;
+    background-color: #23238E;
+    width: 40%;
+}
+legend{
+    border: 1px solid #ffffff;
+    padding: 5px;
+    text-align: center;
+    background-color: #ffffff;
+    border-radius: 8px;
+    color: #263a29;
+}
+.lele{
+    display: grid;
+    padding: 1rem;
+}
+input{
+    padding: .6rem;
+}
+.imguser {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 40%;
+}
+.imguser img {
+    max-width: 100%;
+}
+form{
+ display: flex;
+}   
+
+form .inputs {
+    display: grid;  
+    width: 100%;
+}
+.but{
+    margin: 1rem;
+    width: 30%;
+    border-radius: 20px;
+    background-color: #ffffff;
+}
+.deslogar {
+    background-color: #23238E;
+    text-decoration: none;
+    padding: 10px;
+    
+}
+a{
+    text-decoration: none
+}

@@ -1,0 +1,40 @@
+*{
+    color: aliceblue;
+}
+
+h1 {
+    color: black;
+}   
+fieldset{
+    border-radius: 8px;
+    border: 3px solid #ffffff;
+}
+legend {
+    border: 1px solid #ffffff;
+    padding: 5px;
+    text-align: center;
+    background-color: #ffffff;
+    border-radius: 8px;
+    color: black;
+}
+.forms{
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    transform: translate(-10%, -45%);
+    padding: 20px;
+    width: 25%;
+    color: white;
+    background-color: #23238E;
+}
+.table-one{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+th, tr{
+    padding: 1.5rem;
+}

@@ -1,0 +1,45 @@
+th, td {
+    text-align: center;
+    padding: 1.5rem;
+    
+   }
+   .table-two {
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   }
+   .table-one{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+   }
+   .text-center{
+    text-align: center;
+   }
+   .leandro {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+    height: 90vh;
+   }
+   legend{
+    border: 1px solid #ffffff;
+    padding: 5px;
+    text-align: center;
+    background-color: #ffffff;
+    border-radius: 8px;
+   }
+   fieldset{
+    border: 3px solid #ffffff;
+    border-radius: 8px;
+    background-color: #23238E;
+   }
+   table{
+    color: #f2e3db;
+   }

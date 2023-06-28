@@ -1,0 +1,75 @@
+.salas {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-10%, -45%);
+    background-color: #23238E;;
+    padding: 15px;
+    border-radius: 15px;
+    width: 50%;
+}
+fieldset{
+    border: 3px solid #ffffff;
+}
+legend{
+    border: 1px solid rgb(255, 255, 255);
+    padding: 5px;
+    text-align: center;
+    background-color: #ffffff;
+    border-radius: 8px;
+}
+.salas input{
+    position: relative;
+}
+input{
+    background: none;
+    border: none;
+    border-bottom: 1px solid white;
+    outline: none;
+    color: white;
+    font-size: 15px;
+    width: 100%;
+    letter-spacing: 1px;
+}
+.tema {
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    transform: translate(-100%, -50%);
+    background-color: #23238E;
+    padding: 15px;
+    border-radius: 15px;
+    width: 30%;
+}
+.botao{
+    color: black;
+    font-weight: bold;
+   border-radius: 20px;
+}
+button{
+    background-color: white;
+    font-weight: bold;
+}
+.label-input{
+   position:initial;
+   color: white;
+   top: 0px;
+   left: 0px;
+   pointer-events: none;
+   transition: 0.5s;
+   
+}
+input:focus ~ .label-input{
+    top: -50px;
+    font-size: 12px;
+    color: #0886fc;
+}
+.text {
+    color: #f2e3db;
+}
+p{
+    color: white;
+}
+.select{
+    border-radius: 20px;
+}

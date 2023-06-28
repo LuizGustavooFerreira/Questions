@@ -1,0 +1,53 @@
+.forms{
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    transform: translate(-10%, -45%);
+    padding: 15px;
+    border-radius: 15px;
+    width: 25%;
+    color: white;
+    background-color: #23238E;
+}
+fieldset{
+    border: 3px solid #ffffff;
+}
+.lele{
+    display: grid;
+    justify-content: space-evenly;
+    width: 100%;
+}   
+legend {
+    border: 1px solid #ffffff;
+    padding: 5px;
+    text-align: center;
+    background-color: #ffffff;
+    border-radius: 8px;
+    color: black;
+}
+.cadastro{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+.paragrafo{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+.btn{
+    background-color: #fff;
+    border-radius: 8px;
+    height: 30px;
+    width: 100px;
+} 
+.le{
+    display: grid;
+    justify-content: space-evenly;
+    width: 100%;
+    padding: 20px;
+}
+.luiz{
+    position: absolute;
+    left: 75%;
+}
