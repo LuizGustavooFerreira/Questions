@@ -6,7 +6,7 @@ https://questioons.000webhostapp.com/
 
 Criado e desenvolvido com a biblioteca em SDL, PYGAME!
 
-![PHP](https://img.shields.io/badge/PHP-3776AB?style=for-the-badge&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-3776AB?style=for-the-badge&logo=php&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-3776AB?style=for-the-badge&logo=html&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-3776AB?style=for-the-badge&logo=css&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=sql&logoColor=white) 
 
 Resumidamente [Pygame](https://www.pygame.org/news) 
  é uma biblioteca escrita em Python e baseada em SDL. Voltada para o desenvolvimento de games e interfaces gráficas, ele fornece acesso a áudios, teclados, controles, mouses e hardwares gráficos via OpenGL e Direct3D.<br>
