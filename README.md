@@ -8,7 +8,7 @@ Criado e desenvolvido com a biblioteca em SDL, PYGAME!
 
 ![PHP](https://img.shields.io/badge/PHP-3776AB?style=for-the-badge&logo=php&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-3776AB?style=for-the-badge&logo=html&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-3776AB?style=for-the-badge&logo=css&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=sql&logoColor=white) 
 
-Resumidamente [SQL](https://tecnoblog.net/responde/o-que-e-sql/) 
+Resumidamente [SQL]/(https://tecnoblog.net/responde/o-que-e-sql/) 
  O que é SQL? O SQL é uma linguagem padrão para manipulação de registros em bancos de dados relacionais. A sigla SQL vem dos termos em inglês “Structured Query Language”, que podem ser traduzidos para o português como “Linguagem de Consulta Estruturada”.<br>
  
 ### A ideia de ter feito o Questions
