@@ -12,13 +12,13 @@ Resumidamente [SQL](https://tecnoblog.net/responde/o-que-e-sql/)
  O que é SQL? O SQL é uma linguagem padrão para manipulação de registros em bancos de dados relacionais. A sigla SQL vem dos termos em inglês “Structured Query Language”, que podem ser traduzidos para o português como “Linguagem de Consulta Estruturada”.<br>
  
 ### A ideia de ter feito o Questions
-Questions foi um software criado para proporcionar uma experiencia de pergutas e respostas em formato de quiz, para professores ultilizarem juntamnete aos seus alunos, tornando uma plataforma mais interativa ao ususario. Desenvolcida com a ajuda do co-ordenador Paulo.
+Questions foi um software criado para proporcionar uma experiencia de pergutas e respostas em formato de quiz, para professores ultilizarem juntamnete aos seus alunos, tornando uma plataforma mais interativa ao ususario. Desenvolcida com a orientação Paulo Cesar dos Santos, professor de orientação a Objetos (PSOO).
 
 ![Imagem do jogo](https://user-images.githubusercontent.com/103830032/175787761-60b59f98-d29a-450b-9a3e-2d3411ce16d8.png)
 ## Objetivo:
 - O objeto do jogo é simples, crie um tema, crie atribbua perguntas no seu tema e jogue.<br>
 - A cada acerto vocêacumulará 1 ponto, a cada erro você perdará 2 pontos.<br>
-- Veja sua colocação no ranking geral.
+- Veja sua colocação no ranking geral.  
 
 ### Contato
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luizgustavooferreira)
