@@ -14,7 +14,7 @@ Resumidamente [SQL](https://tecnoblog.net/responde/o-que-e-sql/)
 ### A ideia de ter feito o Questions
 Questions foi um software criado para proporcionar uma experiencia de pergutas e respostas em formato de quiz, para professores ultilizarem juntamnete aos seus alunos, tornando uma plataforma mais interativa ao ususario. Desenvolcida com a orientação Paulo Cesar dos Santos, professor de orientação a Objetos (PSOO).
 
-![Imagem do jogo](https://user-images.githubusercontent.com/103830032/175787761-60b59f98-d29a-450b-9a3e-2d3411ce16d8.png)
+![Imagem do jogo](https://github.com/LuizGustavooFerreira/Questions/issues/2#issue-1797644737)
 ## Objetivo:
 - O objeto do jogo é simples, crie um tema, crie atribbua perguntas no seu tema e jogue.<br>
 - A cada acerto vocêacumulará 1 ponto, a cada erro você perdará 2 pontos.<br>
