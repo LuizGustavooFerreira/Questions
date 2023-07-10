@@ -17,6 +17,8 @@ Questions foi um software criado para proporcionar uma experiencia de pergutas e
 ### Criação de temas e perguntas
 ![Capturar](https://github.com/LuizGustavooFerreira/Questions/assets/132951991/af3d422c-345d-43ba-a96d-825cc25dbc29)
 ### Temas em aberto
+![Capturar1](https://github.com/LuizGustavooFerreira/Questions/assets/132951991/1587d108-9fdd-439f-9d92-96be0a473f30)
+
 ### Perguntas
 ## Objetivo:
 - O objeto do jogo é simples, crie um tema, crie atribbua perguntas no seu tema e jogue.<br>
